@@ -3,3 +3,7 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .venv
+image.png
+image-1.png
+image-2.png
+image-3.png
