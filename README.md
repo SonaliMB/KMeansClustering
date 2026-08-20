@@ -20,13 +20,13 @@ This Streamlit app would:
 
 # Application Workflow
 Upload the data in the form of .csv file.
-![](image.png)
+![](resources/image.png)
 
 Raw Dataset and Data Insights gets loaded on the screen.
-![](image-1.png)
+![](resources/image-1.png)
 
 Cluster visualization and Model inertial is displayed on the screen.
-![](image-2.png)
+![](resources/image-2.png)
 
 You can enter age and salary to predict the cluster it belongs to.
-![](image-3.png)
+![](resources/image-3.png)
